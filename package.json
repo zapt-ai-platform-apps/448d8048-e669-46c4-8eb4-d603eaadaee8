@@ -1,0 +1,21 @@
+{
+  "name": "focus-mode-app",
+  "version": "1.0.0",
+  "description": "An app that plays focus music and reminds users to take breaks.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "solid-js": "^1.8.22"
+  },
+  "devDependencies": {
+    "vite": "^5.4.7",
+    "vite-plugin-solid": "^2.10.2",
+    "tailwindcss": "^3.4.13",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47"
+  }
+}
